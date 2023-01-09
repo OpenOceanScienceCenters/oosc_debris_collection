@@ -1,0 +1,28 @@
+Package: ooscDataAnalysis
+Type: Package
+Title: Simple package to get OOSC debri data
+Version: 0.1.0
+Authors@R: c(
+    person("Elliott", "Messeiller", , "elliott.messeiller@gmail.com", role = c("aut", "cre"))
+  )
+Description: Simple package to get OOSC debri data
+URL: https://github.com/ElliottMess/oosc_debris_collection
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    devtools,
+    dplyr,
+    koboAPI,
+    lubridate,
+    purrr,
+    readr,
+    robotoolbox,
+    rvest,
+    stringr,
+    tidyr,
+    tidyselect
+Remotes: 
+    dickoa/robotoolbox,
+    elliottmess/koboAPI
+RoxygenNote: 7.1.2

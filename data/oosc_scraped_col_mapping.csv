@@ -1,0 +1,86 @@
+col_scrape,col_oosc
+Team Leader,leader_name
+Number of Participants,participants
+Total Debris Collected,total_weight
+Location Name,survey_site
+Organization/Dive Centre,oosc
+City,town_village
+Country,NA
+Date,start
+Survey Duration,survey_time
+GPS Coordinates,pre_loaded_GPS_coordinates
+Weather Conditions,weather_conditions
+Survey Depth Range,dive_depth
+Area Surveyed,survey_area
+Dominant Substrate,dominant_substrate
+Ecosystem,beach_ecosystem
+Wave Conditions,wave_conditions
+plastic_Caps & Lids (plastic),plastic_caps_number
+plastic_Fishing: Line,line_material
+plastic_Plastic Fragments,plastic_frag_number
+"metal_Cans: Food/juice, Other (tin)",beverage_cans_number
+"metal_Wire, Wire Mesh & Barbed Wire",wire_number
+"metal_Fishing: Sinkers, Lures, Hooks",metal_fishing_number
+wood_Wood Fragments,fragments_number_001
+plastic_Bags: Trash (plastic),plastic_bags_number
+plastic_Beverage Bottles: 2 Litres Or More (plastic),bottle_number
+plastic_Beverage Bottles: Less Than 2 Litres (plastic),bottle_number
+plastic_Fishing: Nets & Pieces Of Nets,Fishing nets (or pieces of net)
+plastic_Food Wrappers (plastic),wrappers_number
+"plastic_Sheeting: Tarpaulin, Plastic Sheets, Palette Wrap",sheeting_number
+plastic_Syringes (plastic),plastic_syr_number
+plastic_Rope (plastic/nylon),plastic_rope_number
+metal_Beverage Cans (aluminium),beverage_cans_number
+metal_Cars & Car Parts,car_parts_number
+metal_Pipes & Rebar,metal_pipes_number
+metal_Metal Fragments,metal_frag_number
+rubber_Tires/tyres,tyres_number
+cloth_Gloves (cloth),cloth_number
+cloth_Cloth Fragments,fragments_number_002
+"mixed_Shoes-flip Flops, Sandals, Tennis, Etc",etc_number_002
+plastic_Bags-grocery/retail (plastic),plastic_bags_number
+plastic_Mesh Bags: Fruit/vegetable/shellfish,mesh_bag_number
+"plastic_Buckets, Drums & Jerrycans-2 Liters Or More",buckets_number
+"plastic_Containers: Fast Food, Lunch Boxes & Similar",plastic_containers_number
+"plastic_Cups, Plates, Forks, Knives, Spoons (plastic)",plastic_cups_etc_number
+plastic_Pipes (plastic-PVC),pipes_number
+glass_Cups & Plates-tableware/dishes (glass & Ceramic),glass_cer_cups_etc_number
+glass_Jars-food (glass),food_jar_number
+glass_Glass & Ceramic Fragments,glass_cer_fragments_number
+glass_Beverage Bottles (glass),glass_bottles_number
+cloth_Towels/rags,rags_number
+paper_Cardboard: Packaging & Cartons,cartons_number
+mixed_Clothing,clothing_number
+other_Rubber spring,fragments_number
+other_Scissors,metal_frag_number
+other_Cd packaging,plastic_frag_number
+other_Rubber mat,fragments_number
+"plastic_SCUBA & Snorkel Gear-masks, Snorkels, Fins",plastic_scuba_snork_number
+"paper_Paper, Cardboard Fragments",fragments_number_003
+other_Scub Tank Boot,NA
+plastic_Foam Insulation & Packaging,foam_packaging_number
+"plastic_Fishing: Lures, Rods/poles",fish_lures_poles_number
+plastic_Bottles: Bleach/cleaner Bottles,bottles_cleaner_oil_lube_number
+plastic_Furnishings (plastic),furnishings_number
+plastic_Cigarette Filters,cig_number
+plastic_Strapping Bands (plastic),strapping_number
+rubber_Rubber Fragments,fragments_number
+other_plastic hanger,plastic_frag_number
+other_Plastic childrens spade,toys_number
+other_Plastic childrens toys,toys_number
+plastic_Buoys & Floats (plastic & Foamed),buoys_number
+metal_Wrappers (foil/metal),metal_wrappers_number
+plastic_Bottles: Oil/lube,bottles_cleaner_oil_lube_number
+plastic_Carpet (synthetic),carpet_synth_number
+glass_Light Globes/bulbs/tubes,light_bulbs_number
+other_shower curtain,plastic_frag_number
+other_moskito net,plastic_frag_number
+paper_Bags (paper),paper_number
+plastic_Gloves (latex),latex_gloves_number
+metal_Aerosol/spray Cans,aerosol_number
+metal_Caps & Lids (metal),metal_caps_number
+"metal_Gas Bottles/cylinder, Drums-more Than 4 Liters",cylinders_number
+wood_Pallets,pallets_number
+cloth_Rope And String (cloth),cloth_number_001
+"mixed_Bricks, Cinderblocks & Chunks Of Cement",etc_number_001
+cloth_Bags (cloth),hessian_number

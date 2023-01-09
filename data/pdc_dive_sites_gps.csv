@@ -1,0 +1,26 @@
+name_key,name,town_cities,GPS_coordinates,GPS_coordinates_latitude,GPS_coordinates_longitude,GPS_coordinates_altitude,GPS_coordinates_precision
+abu_hamara,Abu Hamara,quesir,26.0614 34.1652 0 20,26.0614,34.1652,0,20
+abu_sauatir,Abu Sauatir,quesir,26.206175 34.219504 0 20,26.206175,34.219504,0,20
+bet_goha,Bet Goha,quesir,26.20473427 34.27047729 0 20,26.20473427,34.27047729,0,20
+el_mina,El Mina,hurghada,27.22341777 33.84508967 0 20,27.22341777,33.84508967,0,20
+el_moghar,El Moghar,,,,,,
+gasus_soraya,Gasus Soraya,safaga,26.555 34.036389 0 300,26.555,34.036389,0,8.6
+green_hole,Green Hole,safaga,26.56949068 34.09727097 0 20,26.56949068,34.09727097,0,20
+lighthouse,Lighthouse,,,,,,
+machruga,Machruga,,,,,,
+magbaret_somaya,Magbaret Somaya,,,,,,
+mangrove_bay,Mangrove Bay,quesir,25.93581714 34.48265076 0 100,25.93581714,34.48265076,0,100
+mangrove_pinnacles,Mangrove Pinnacles,quesir,25.93581714 34.48265076 0 100,25.93581714,34.48265076,0,100
+marsa_shora,Marsa Shora,,,,,,
+marsa_waleed,Marsa Waleed,hamrawein_port,26.338 34.172 0 100,26.338,34.172,0,100
+nafag_rene,Nafaq Rene,,,,,,
+saleem,Saleem,quesir,26.42706 34.10234 0 5,26.42706,34.10234,0,5
+sheikh_malik,Sheikh Malik,port_ghalib,25.60190226 34.71954346 0 100,25.60190226,34.71954346,0,100
+sug_bohar,Sug Bohar,quesir,25.98397149 34.39304352 0 100,25.98397149,34.39304352,0,100
+tarfa,Tarfa,,,,,,
+transect,OOSC Transect Test Site,quesir,26.2083421 34.2188544 24.44508354900656 16.0,26.2083421,34.2188544,24.44508355,16
+serib_soraya,Serib Soraya,,,,,,
+el_makluf,El Makluf,safaga,26.49638584 34.14070129 0 20,26.49638584,34.14070129,0,20
+serib_kebir,Serib Kebir,quesir,26.022735297289866 34.32554372472502 0 20,26.0227352972899,34.325543724725,0,20
+ras_quseir,Ras Quseir,quesir,26.109857438251 34.287085561092 0 20,26.109857438251,34.287085561092,0,20
+quesir_harbour,El Quseir Harbour,quesir,26.103377182140928 34.28592140316501,26.1033771821409,34.285921403165,0,20

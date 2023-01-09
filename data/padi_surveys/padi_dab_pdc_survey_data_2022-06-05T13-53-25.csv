@@ -1,0 +1,25 @@
+survey_id,leader_name,participants,total_weight,oosc,survey_time,weather_conditions,dive_depth,survey_area_m2,dominant_substrate,beach_ecosystem,wave_conditions,beverage_cans_number,bottle_number,bottles_cleaner_oil_lube_number,fragments_number,metal_frag_number,plastic_bags_number,plastic_frag_number,toys_number,other_organisation,today,weather_conditions_sunny,weather_conditions_windy,weather_conditions_warm,weather_conditions_breeze,weather_conditions_cold,weather_conditions_rain,weather_conditions_weather_dontknow,beach_dive_line,survey_site,town_village,GPS_coordinates
+1,Steve Rattle,7,1.2,no,55,sunny windy,18.9,1500,coral,coral_reef,moderate,2,0,0,0,0,0,2,0,Pharaoh Dive Club,2019-07-03,1,1,0,0,0,0,0,dive,abu_sauatir,quesir,26.206175 34.219504 0 20
+2,Steve Rattle,24,27,no,45,sunny,11,157,sand,coral_reef,calm,4,20,0,0,2,6,22,0,Pharaoh Dive Club,2019-06-17,1,0,0,0,0,0,0,dive,gasus_soraya,safaga,26.555 34.036389 0 300
+3,Thomas Insje,10,0.0818,no,50,NA,15,10000,coral,coral_reef,calm,0,0,0,0,0,7,0,0,Pharaoh Dive Club,2018-06-23,0,0,0,0,0,0,0,dive,abu_sauatir,quesir,26.206175 34.219504 0 20
+4,Rebekka,15,9.346,no,65,warm,9.5,10000,sand,coral_reef,calm,5,9,0,2,2,1,14,0,Pharaoh Dive Club,2018-07-20,0,0,1,0,0,0,0,dive,quesir_harbour,quesir,26.103377182140928 34.28592140316501
+5,Clare Rattle,27,41.54,no,51,NA,15,3193,coral,coral_reef,calm,0,4,0,0,2,0,0,0,Pharaoh Dive Club,2018-05-22,0,0,0,0,0,0,0,dive,ras_quseir,quesir,26.109857438251 34.287085561092 0 20
+6,Clare Meadows,4,1.5,no,34,NA,18,2805,coral,coral_reef,calm,1,0,0,0,0,0,4,0,Pharaoh Dive Club,2017-11-14,0,0,0,0,0,0,0,dive,abu_sauatir,quesir,26.206175 34.219504 0 20
+7,Elloit Greatrix,4,1.12,no,58,NA,18,2805,coral,coral_reef,calm,1,0,0,0,0,3,0,0,Pharaoh Dive Club,2017-09-24,0,0,0,0,0,0,0,dive,abu_sauatir,quesir,26.206175 34.219504 0 20
+8,Elliot Greatrix,3,0.12,no,56,warm,19.9,3267,coral,coral_reef,moderate,0,0,0,0,0,0,0,0,Pharaoh Dive Club,2017-07-23,0,0,1,0,0,0,0,dive,abu_sauatir,quesir,26.206175 34.219504 0 20
+9,Rachel Mawer,3,0.14,no,44,warm,32,4600,coral,coral_reef,calm,0,0,0,0,0,0,0,0,Pharaoh Dive Club,2017-07-22,0,0,1,0,0,0,0,dive,abu_sauatir,quesir,26.206175 34.219504 0 20
+10,Allan Prommik,7,4.671,no,50,windy,22,9400,coral,coral_reef,calm,0,4,1,1,0,9,35,3,Pharaoh Dive Club,2017-04-15,0,1,0,0,0,0,0,dive,gasus_soraya,safaga,26.555 34.036389 0 300
+11,Allan Prommik,2,0.4,no,55,windy,19,5393,coral,coral_reef,calm,0,2,0,0,0,4,1,0,Pharaoh Dive Club,2017-04-19,0,1,0,0,0,0,0,dive,abu_sauatir,quesir,26.206175 34.219504 0 20
+12,Ramadan,2,1,no,36,sunny,12,4650.39,sand,coral_reef,calm,0,1,0,0,0,3,0,0,Pharaoh Dive Club,2017-02-23,1,0,0,0,0,0,0,dive,abu_sauatir,quesir,26.206175 34.219504 0 20
+13,Clare Meadows,2,2.5,no,50,NA,15,4650.39,sand,coral_reef,moderate,0,3,0,0,0,6,0,0,Pharaoh Dive Club,2017-01-13,0,0,0,0,0,0,0,dive,abu_sauatir,quesir,26.206175 34.219504 0 20
+14,Clare Meadows,4,2,no,47,sunny,12,4650.39,coral,coral_reef,calm,0,4,0,0,0,4,0,0,Pharaoh Dive Club,2017-01-12,1,0,0,0,0,0,0,dive,abu_sauatir,quesir,26.206175 34.219504 0 20
+15,Ramadan,2,0.485,no,45,sunny windy,15,5640.28,coral,coral_reef,calm,2,0,0,0,0,3,3,0,Pharaoh Dive Club,2016-12-18,1,1,0,0,0,0,0,dive,abu_sauatir,quesir,26.206175 34.219504 0 20
+16,Clare Meadows,4,2.5,no,46,NA,15,5393,sand,coral_reef,calm,2,5,0,0,0,9,5,0,Pharaoh Dive Club,2016-08-12,0,0,0,0,0,0,0,dive,abu_sauatir,quesir,26.206175 34.219504 0 20
+17,yannick MORILHAT,19,150,no,60,NA,0,12185,sand,sand,calm,291,136,2,5,4,0,1002,0,Pharaoh Dive Club,2013-07-30,0,0,0,0,0,0,0,beach,abu_sauatir,quesir,26.206175 34.219504 0 20
+18,yannick MORILHAT,2,1,no,45,NA,14,650,coral,coral_reef,calm,0,2,0,0,0,0,0,0,Pharaoh Dive Club,2013-07-16,0,0,0,0,0,0,0,dive,abu_sauatir,quesir,26.206175 34.219504 0 20
+19,yannick MORILHAT,2,1,no,45,NA,12,650,coral,coral_reef,calm,0,2,0,0,0,0,0,0,Pharaoh Dive Club,2013-07-14,0,0,0,0,0,0,0,dive,abu_sauatir,quesir,26.206175 34.219504 0 20
+20,Yannick Morilhat,2,0.5,no,25,NA,12,25,other,coral_reef,calm,0,0,0,0,0,10,0,0,Pharaoh Dive Club,2013-07-09,0,0,0,0,0,0,0,dive,serib_kebir,quesir,26.022735297289866 34.32554372472502 0 20
+21,Yannick Morilhat,2,2,no,80,NA,13,100,coral,coral_reef,calm,1,10,0,0,0,0,100,0,Pharaoh Dive Club,2013-07-09,0,0,0,0,0,0,0,dive,abu_sauatir,quesir,26.206175 34.219504 0 20
+22,Clare Rattle,3,4,no,70,sunny warm,25,25,coral,coral_reef,calm,0,0,0,0,0,1,0,0,Pharaoh Dive Club,2012-07-28,1,0,1,0,0,0,0,dive,abu_sauatir,quesir,26.206175 34.219504 0 20
+23,Clare Meadows,39,332,no,120,windy,10,100,other,coral_reef,moderate,20,55,5,10,10,4,0,0,Pharaoh Dive Club,2012-02-24,0,1,0,0,0,0,0,dive,abu_hamara,quesir,26.0614 34.1652 0 20
+24,Clare Meadows,2,20,no,65,NA,12,30,coral,,calm,3,2,0,0,0,6,0,0,Pharaoh Dive Club,2011-08-26,0,0,0,0,0,0,0,dive,Fanadir House reef,NA,NA
